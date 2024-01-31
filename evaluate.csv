@@ -1,0 +1,6 @@
+method,accuracy
+random,0.20471388652654599
+most_popular,0.27991738549386463
+unique_words,0.3016644393147856
+multinomial_naive_bayes,0.4432025270319524
+random_forest_classifier,0.5216863078605273
